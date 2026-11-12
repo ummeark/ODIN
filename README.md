@@ -11,5 +11,3 @@ Testsystemet er demobutikken https://www.saucedemo.com.
 | [kravspesifikasjon.md](kravspesifikasjon.md) | Kravene (KRAV-01 til KRAV-09) for utsjekking i nettbutikken. Utgangspunktet for workshopen. |
 | [ODIN-workshop Fra krav til kjørte tester (versjon 3).pdf](ODIN-workshop%20Fra%20krav%20til%20kj%C3%B8rte%20tester%20%28versjon%203%29.pdf) | Workshopdokumentet (versjon 3) som PDF. |
 | [ODIN-workshop Fra krav til kjørte tester (versjon 3).md](ODIN-workshop%20Fra%20krav%20til%20kj%C3%B8rte%20tester%20%28versjon%203%29.md) | Workshopdokumentet (versjon 3) som Markdown. |
-
-Last ned filen med «Download raw file», eller hele repoet med **Code → Download ZIP**.
